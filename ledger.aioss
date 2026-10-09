@@ -1,0 +1,9 @@
+# AIOSS ledger v1
+# project: SOLAR/ARUP
+# records: 5
+# head: 504a3d10e1b7762835900df0c08946f7374dd61d426da2e3a8b1b98a9c05074f
+{"digest": "dba25a38dad2db9ae61b890d2e835ceef779c484e31c7c92a6eaded9645fe9c9", "kind": "bench-report", "path": "BENCH.json", "payload_sha3": "f6fe220ef1daf7d0dd81dc8ea346b3ea85b27724ac2fdb37e3a3c28b800c1fe5", "prev": "5a5a9db5fb708ae61804306200e7a9e31853dde596c5f14d2303d4349fe14b2d", "seq": 0, "ts": "2026-10-09T05:54:42Z"}
+{"digest": "7f4ca23ee271d9624dddbaaa6bfa5904a72f09b71d116bd0fa3a360b9f01c95b", "kind": "result-register", "path": "ISOLATED_LAB_RESULTS/03_Result_Register.md", "payload_sha3": "e44e20af86c04c6f1002206f2ef09a1bed3e6066fd7722d0777e7cd8f94dd058", "prev": "dba25a38dad2db9ae61b890d2e835ceef779c484e31c7c92a6eaded9645fe9c9", "seq": 1, "ts": "2026-10-09T05:54:42Z"}
+{"digest": "e4c4773317e45dbe06161e0435b24a1e4b6ec07c37935dda82167faeeafbe654", "kind": "readme", "path": "README.md", "payload_sha3": "66853a22bc4a35310495959196321ca993aa03d874c40812b5c807785ca6f188", "prev": "7f4ca23ee271d9624dddbaaa6bfa5904a72f09b71d116bd0fa3a360b9f01c95b", "seq": 2, "ts": "2026-10-09T05:54:42Z"}
+{"digest": "2ff95ca958f23439be2e72cbf579b14c4507b58d90837e4e6ecd6bba9ad4c2f4", "kind": "licence", "path": "ANTICOMMONS_LICENSE.md", "payload_sha3": "656b65f938f70871fcab0bd80c4f44dff5639d451735f3116e570bd246a8f7b2", "prev": "e4c4773317e45dbe06161e0435b24a1e4b6ec07c37935dda82167faeeafbe654", "seq": 3, "ts": "2026-10-09T05:54:42Z"}
+{"digest": "504a3d10e1b7762835900df0c08946f7374dd61d426da2e3a8b1b98a9c05074f", "kind": "notice", "path": "NOTICE", "payload_sha3": "4fb8da626f192e1bab65a0419fac453647519d825c6f887a745a45d305ccb9b0", "prev": "2ff95ca958f23439be2e72cbf579b14c4507b58d90837e4e6ecd6bba9ad4c2f4", "seq": 4, "ts": "2026-10-09T05:54:42Z"}
