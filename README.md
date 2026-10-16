@@ -1,14 +1,12 @@
 # ARUP
 
-> This directory contains the full 30-folder standard documentation set for `ARUP`:
+> ARUP - Another bulk Rename Utility with embedded Python interpreter Arup is a another bulk rename utility, the point special is that it does not provide any renaming options. Only use python scripts as renaming rules. For this reason, this tool is for programmers or python-amateurs only.
 
-**Category:** SOLAR · **Ecosystem:** unknown · **Vendored upstream:** https://github.com/wouterpeere/GHEtool · **Pinned commit:** `c18cebcc632fd324f7527dd758f1ed7efd980974` · **Vendor:** Anticloud FZ LLE
-
-> **Note:** this package vendors `https://github.com/wouterpeere/GHEtool` as the implementation for the `ARUP` slot. The vendored repository name differs from the package name; the pin above is the exact commit vendored here.
+**Category:** SOLAR · **Ecosystem:** unknown · **Vendored upstream:** https://github.com/cdhigh/ARUP · **Pinned commit:** `b1ec803f10e84bc17bd51557f602375057e26edc` · **Vendor:** Anticloud FZ LLE
 
 ## What This Project Is
 
-This directory contains the full 30-folder standard documentation set for `ARUP`:
+ARUP - Another bulk Rename Utility with embedded Python interpreter Arup is a another bulk rename utility, the point special is that it does not provide any renaming options. Only use python scripts as renaming rules. For this reason, this tool is for programmers or python-amateurs only.
 
 This is the upstream project, vendored at the pinned commit above and packaged offline-first. The 12 improvements Anticloud adds live in `anticloud/` and are described under *Anticloud Overlay* below. Every fact in this file traces to a file in this directory.
 
@@ -62,7 +60,7 @@ The upstream licence is preserved in `LICENSE` and `THIRD_PARTY_LICENSES/`. The 
 SHA3-256 of `BENCH.json`:
 
 ```
-b5bec725c03ccc761cfff707504d4d6791f5b7ae524cf7fdfbcd702ea75b055a
+76b2883f5c3eaa77fa73a5b60b9ea2de33032d7dc2f6e2170e259aacd105d417
 ```
 
 Recompute the hash above and compare — any drift means the package has been tampered with and the seal is invalid. This is a self-assessment; no external audit has been performed and a SOC 2 / NIST independent audit is committed post-funding.

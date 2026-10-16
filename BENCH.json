@@ -2,12 +2,11 @@
  "schema": "anticloud.tier-bench/1",
  "project": "ARUP",
  "source": {
-  "repo_path": "E:\\fenta\\Downloads\\The Anticloud\\ANTICLOUD_REPOS\\SOLAR\\ARUP\\UPSTREAM",
   "git": {
-   "head": "c18cebcc632fd324f7527dd758f1ed7efd980974",
-   "url": "https://github.com/wouterpeere/GHEtool",
-   "branch": "main",
-   "committed_at": "2026-09-17T01:29:25+02:00"
+   "url": "https://github.com/cdhigh/ARUP",
+   "head": "b1ec803f10e84bc17bd51557f602375057e26edc",
+   "sha_verified_from": "revendor 2026-10-15: GitHub API commit lookup",
+   "previous_substitute": "https://github.com/wouterpeere/GHEtool"
   }
  },
  "metrics": {
